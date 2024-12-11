@@ -82,7 +82,7 @@ export default function Game() {
     useEffect(() => {
       // Check for mobile mode
       const checkScreenSize = () => {
-        setIsMobile(window.matchMedia("(max-width: 768px)").matches);
+        setIsMobile(window.matchMedia("(max-width: 640px)").matches);
       };
   
       // Run check initially and on resize
