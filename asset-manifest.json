@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bomb-TCG/static/css/main.cd9475aa.css",
+    "main.js": "/Bomb-TCG/static/js/main.8b6d5a63.js",
+    "index.html": "/Bomb-TCG/index.html",
+    "main.cd9475aa.css.map": "/Bomb-TCG/static/css/main.cd9475aa.css.map",
+    "main.8b6d5a63.js.map": "/Bomb-TCG/static/js/main.8b6d5a63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd9475aa.css",
+    "static/js/main.8b6d5a63.js"
+  ]
+}
